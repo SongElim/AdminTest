@@ -1,0 +1,8 @@
+HTTPS GitHub URI >>
+https://github.com/SongElim/AdminTest.git
+
+GitHub Repository Name >>
+AdminTest.git
+
+Tokens >>
+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
