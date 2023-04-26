@@ -8,7 +8,6 @@
 </head>
 <body>
 	<div id="wrap">
-		<h1>MAIN PAGE(Mod)</h1>
 		<img src="/images/soju.png" alt="soju"/>
 	</div>
 </body>
